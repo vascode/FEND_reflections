@@ -1,3 +1,30 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	I can collect files to commit in basket before doing so. It is more organized. 
+		
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can compare difference among working directory, staging area, repository to make sure if the changes are what I intend to commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When I want to experiment. 
+
+How do the diagrams help you visualize the branch structure?
+
+	I can visualize how projects are branched. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	it merges differences into a file. But if there two commits are all different from ancester, it will ask to resolve the conflict
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	With manaul merging, I can read semantic meaning of code and chose one that makes sense. 
+
+
+
+
+
+
+
