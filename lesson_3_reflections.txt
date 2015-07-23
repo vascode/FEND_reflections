@@ -23,4 +23,5 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    having master only is simple. There is only one path that I should track. 
+	But if I want to experiment different things, it is better to use branch so that my potential risky change does not harm master branch.
